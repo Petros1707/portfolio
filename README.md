@@ -21,7 +21,7 @@
   - Email
   - Message
 - Contact information:
-  - Physical address (with Waze link)
+  - Physical address
   - Phone number
   - Email address
 
