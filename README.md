@@ -10,20 +10,10 @@
 
  3. Skills Page (skills.html)
 - Technical skills overview
-- Skills categories
-- Programming languages: HTML, CSS, Java, Python, JavaScript
-- Education section (certificates from Alison)
-- Professional experience description
-
+  
  4. Contact Page (contact.html)
-- Contact form with fields:
-  - Name
-  - Email
-  - Message
-- Contact information:
-  - Physical address
-  - Phone number
-  - Email address
+- Contact form with fields
+- Contact information
 
  Features
 
@@ -31,10 +21,7 @@
 - Consistent header across all pages with navigation links
 
  Footer (Present on all pages)
-- Quick navigation links
-- Contact information
-- Copyright notice
-- Social media icons (Facebook, Twitter, Instagram, LinkedIn)
+- Consistent footer across all pages with navigation links
 
  Responsive Design
 - Mobile-friendly breakpoint at 600px
@@ -49,4 +36,4 @@
  License
 © All Rights Reserved. This project is for personal portfolio use.
 
-Designed by Peter Mushambadzi
+Designed by Petros Mushambadzi
