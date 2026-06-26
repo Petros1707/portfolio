@@ -27,6 +27,10 @@ body{
 	border-radius: 5px;
 	background-color: #c44127;
 }
+.main-btn a{
+	text-decoration: none;
+	color: black;
+}
 .main-btn:hover{
 	cursor: pointer;
 	background-color: #40150c;
